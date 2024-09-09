@@ -1,6 +1,3 @@
-Here’s the modified raw code for your **Laptop Price Prediction** project based on the provided template:
-
----
 
 # Laptop Price Prediction
 
