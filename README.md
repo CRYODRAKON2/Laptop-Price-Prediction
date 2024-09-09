@@ -19,7 +19,7 @@ The goal of this project is to develop a machine learning model that can accurat
 
 The repository consists of the following files:
 
-- **laptops.csv**: This file contains the raw laptop dataset, including various technical specifications and their corresponding prices.
+- **laptop_price.csv**: This file contains the raw laptop dataset, including various technical specifications and their corresponding prices.
 - **Laptop Price Prediction.ipynb**: This Jupyter notebook contains the Python code used to process the data, perform feature engineering, and build machine learning models for price prediction.
 
 ## Data Description
