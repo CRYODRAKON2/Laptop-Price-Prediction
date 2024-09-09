@@ -39,7 +39,7 @@ To run the project and predict laptop prices:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/laptop-price-prediction.git
+   git clone https://github.com/CRYODRAKON2/Laptop-Price-Prediction.git
    cd laptop-price-prediction
    ```
 
